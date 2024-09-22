@@ -29,7 +29,7 @@ int main()
     else
         printf("Element not found");
     return 0;}
-
+// 2 
 #include<stdio.h>
 
 void binary_search(int arr[10], int key){
@@ -75,7 +75,7 @@ int main(){
 
 
 }
-
+//3
 
 #include<stdio.h>
 
